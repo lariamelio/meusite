@@ -1,4 +1,9 @@
 body{
-    color:blanchedalmond;
-    background-color:rebeccapurple;
+    color: wheat;
+    background-color: rebeccapurple;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
 }
