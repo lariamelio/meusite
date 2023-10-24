@@ -1,8 +1,8 @@
 body{
     color: wheat;
     background-color: rebeccapurple;
-    font-family: 'Trebuchet MS',' Arial, sans-serif;
-},
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
 
 ul {
     display: flex;
