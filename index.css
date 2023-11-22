@@ -17,7 +17,7 @@ a{
     text-decoration: none;
 }
 
-img{
+ header img{
     width: e0px;
     height: 550px;
     border-radius: 5%;
@@ -25,4 +25,8 @@ img{
 
 .center{
     text-align: center;
+}
+
+h1 {
+    color:lightblue
 }
